@@ -32,9 +32,8 @@ C program that manages a student register using a linked list.
 
 Compile the program using GCC:
 
-\begin{verbatim}
+```bash
 gcc -Wall -Wextra -std=c11 studenttest.c student.c -o studenttest
-\end{verbatim}
 
 
 ## Execution:
