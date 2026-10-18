@@ -23,7 +23,7 @@ C program that manages a student register using a linked list.
 
 - student.c : implementation of the linked-list operations.
 
-- student.h : function declarations.
+- student.h : functions declarations.
 
 - studenttest.exe : program.
 
