@@ -32,17 +32,18 @@ C program that manages a student register using a linked list.
 
 Compile the program using GCC:
 
-```bash
+```
 gcc -Wall -Wextra -std=c11 studenttest.c student.c -o studenttest
+```
 
 
 ## Execution:
 
 On Windows PowerShell:
 
-\begin{verbatim}
+```
 .\studenttest.exe
-\end{verbatim}
+```
 
 
 ## A personal note:
